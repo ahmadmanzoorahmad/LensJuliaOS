@@ -1,0 +1,11 @@
+{
+  "name": "projectlens",
+  "version": "1.0.0",
+  "main": "src/agent.js",
+  "scripts": {
+    "start": "node tests/agent.test.js"
+  },
+  "dependencies": {
+    "juliaos": "*"
+  }
+}
